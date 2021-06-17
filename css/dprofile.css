@@ -1,0 +1,160 @@
+body
+{
+	//background-color:#4caf50;
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('../images/h2.jpg');
+	background-attachment:fixed;
+}
+#outer
+{	
+
+	height:auto;width:auto;//border:1px solid;
+}
+#header
+{
+	//background-color:#fce4ec;
+	background-image:url('../images/m41.jpg');
+	height:150px;width:auto;//border:1px solid;
+}
+#logo
+{
+	height:150px;width:150px;//border:1px solid;float:left;
+}
+#name
+{
+	height:150px;width:auto;//border:1px solid red;float:left;margin-left:90px;margin-top:40px;
+}
+#san
+{
+	font-size:50px;color:#6200ea;
+
+}
+#menu{
+	height:60px;width:auto; border:1px solid; background-color:#33b5e5; border-radius:5px;color:#33b5e5;
+}
+#menu ul{
+list-style-type:none;
+}
+#menu ul li
+{
+	display:inline;padding:10px;
+}
+#menu ul li a{
+color:black;
+text-decoration:none;
+}
+#menu ul li:hover
+{
+background-color:#6200ea;border-radius:10px;
+}
+#slider
+{
+	height:600px;width:auto;//border:1px solid;
+}
+#photo
+{
+	height:300px;width:auto;//border:1px solid;
+}
+#img{
+	height:300px;width:1000px;//border:1px solid;float:left;
+}
+#footer
+{
+	height:380px;width:auto;//border:1px solid;background-color:black;
+}
+#f1 
+{
+	height:200px;width:500px;//border:1px solid white;float:left;color:white;
+}
+#f2 
+{
+	height:200px;width:500px;//border:1px solid white;float:left;margin-left:30px;color:white;
+}
+#f3 
+{
+	height:200px;width:400px;//border:1px solid white;float:left;margin-left:30px;color:white;
+}
+#p1{
+	margin-top:10px;
+	margin-left:30px;
+}
+#p2{
+	margin-top:10px;
+	margin-left:30px;
+}
+#p3{
+	margin-top:10px;
+	margin-left:30px;
+}
+#p4{
+	margin-top:10px;
+	margin-left:30px;
+}
+#p5{
+	margin-top:10px;
+	margin-left:30px;
+}
+#img1{
+	height:300px;width:445px;//border:1px solid white;float:left;margin-left:50px;
+}
+#co{
+	color:red;font-size:20px;
+}
+#d{
+	margin-left:40px;float:left;color:khaki;
+}
+#d1{
+	margin-left:20px;float:left;color:khaki;
+}
+#d2{
+	margin-left:40px;float:left;color:khaki;
+}
+#d3{
+	margin-left:50px;float:left;color:khaki;
+}
+#d4{
+	margin-left:25px;float:left;color:khaki;
+}
+#sp{
+	height:50px;width:50px;//border:1px solid white;border-radius:30px 30px 30px 30px;margin-left:220px;margin-top:30px;
+	background-image:url(../images/sk.jpg);background-color:white
+}
+#in{
+	margin-left:150px;
+}
+#tw{
+	margin-left:50px;
+}
+#ss{
+	font-size:50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+for r in res:
+ print "<tr><td>name</td></tr>",r[1],"</td></tr>"
+ print "<tr><td>fathername</td></tr>",r[2],"</td></tr>"
+ print "<tr><td>gender</td></tr>",r[3],"</td></tr>"
+ print "<tr><td>mobile no</td></tr>",r[4],"</td></tr>"
+ print "<tr><td>address</td></tr>",r[5],"</td></tr>"
+ print "<tr><td>email</td></tr>",r[6],"</td></tr>"
+ print "<tr><td>date</td></tr>",r[8],"</td></tr>"
+ print "<tr><td colspan='2' align='center'><a>href='edit profile?id="+e+"'</a></td></tr>""<tr><td>date</td></tr>",r[8],"</td></tr>"
+print"""

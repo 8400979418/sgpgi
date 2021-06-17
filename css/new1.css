@@ -1,0 +1,11 @@
+body
+{
+	//background-color:skyblue;
+	background-image:url('../images/h2.jpg');
+	background-attachment:fixed;
+}
+#outer
+{	
+
+	height:100%;width:auto;//border:1px solid;
+}
